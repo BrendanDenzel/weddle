@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <link rel="icon" type="image/svg+xml" href="/assets/favicon.95582322.svg" />
+        <link
+            rel="stylesheet"
+            href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap"
+        />
+        <link
+            rel="stylesheet"
+            href="https://fonts.googleapis.com/icon?family=Material+Icons"
+        />
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link
+            href="https://fonts.googleapis.com/css2?family=Readex+Pro:wght@200;300;400;500;600;700&display=swap"
+            rel="stylesheet"
+        />
+        <meta
+            data-n-head="ssr"
+            name="viewport"
+            content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0"
+        />
+        <meta
+            data-n-head="ssr"
+            data-hid="description"
+            name="description"
+            content="Guess a new NFL player every day."
+        />
+        <meta
+            data-n-head="ssr"
+            name="format-detection"
+            content="telephone=no"
+        />
+        <meta data-n-head="ssr" charset="utf-8" />
+        <meta
+            data-n-head="ssr"
+            data-hid="og:title"
+            property="og:title"
+            content="Weddle | NFL Player Guessing Game"
+        />
+        <meta
+            data-n-head="ssr"
+            data-hid="og:description"
+            name="og:description"
+            content="Guess a new NFL player every day."
+        />
+        <meta
+            data-n-head="ssr"
+            data-hid="og:type"
+            property="og:type"
+            content="Website"
+        />
+        <meta
+            data-n-head="ssr"
+            data-hid="og:url"
+            property="og:url"
+            content="https://weddlegame.com/"
+        />
+        <meta
+            data-n-head="ssr"
+            data-hid="twitter:card"
+            property="twitter:card"
+            content="summary_large_image"
+        />
+        <meta
+            data-n-head="ssr"
+            data-hid="twitter:title"
+            property="twitter:title"
+            content="Weddle | NFL Player Guessing Game"
+        />
+        <meta
+            data-n-head="ssr"
+            data-hid="twitter:description"
+            property="twitter:description"
+            content="Guess a new NFL player every day."
+        />
+        <meta data-n-head="ssr" data-hid="charset" charset="utf-8" />
+        <meta
+            data-n-head="ssr"
+            data-hid="mobile-web-app-capable"
+            name="mobile-web-app-capable"
+            content="yes"
+        />
+        <meta
+            data-n-head="ssr"
+            data-hid="apple-mobile-web-app-capable"
+            name="apple-mobile-web-app-capable"
+            content="yes"
+        />
+        <meta
+            data-n-head="ssr"
+            data-hid="apple-mobile-web-app-status-bar-style"
+            name="apple-mobile-web-app-status-bar-style"
+            content="default"
+        />
+        <meta
+            data-n-head="ssr"
+            data-hid="apple-mobile-web-app-title"
+            name="apple-mobile-web-app-title"
+            content="Weddle"
+        />
+        <meta
+            data-n-head="ssr"
+            data-hid="og:site_name"
+            name="og:site_name"
+            property="og:site_name"
+            content="Weddle"
+        />
+        <title>Weddle</title>
+      <script type="module" crossorigin src="/assets/index.0ba48982.js"></script>
+      <link rel="modulepreload" href="/assets/vendor.b6f2ee1a.js">
+      <link rel="stylesheet" href="/assets/index.1e0319dc.css">
+    </head>
+    <body>
+        <div id="root"></div>
+        
+    </body>
+</html>
